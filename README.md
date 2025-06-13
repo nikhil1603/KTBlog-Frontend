@@ -1,7 +1,7 @@
-🧠 Kernel Thoughts – A Modern Blog Platform
-Kernel Thoughts is a full-stack blogging platform where users can share insightful, technical content. Designed with scalability, security, and a clean developer experience in mind, this project demonstrates microservices architecture, modern frontend frameworks, and robust authentication.
+🧠 Kernel Thoughts – A Modern Blog Platform Kernel Thoughts is a full-stack blogging platform where users can share insightful, technical content. Designed with scalability, security, and a clean developer experience in mind, this project demonstrates microservices architecture, modern frontend frameworks, and robust authentication.
 
 🚀 Features
+
 📝 Create, edit, and delete blog posts
 
 🔒 Google OAuth 2.0 authentication
@@ -18,35 +18,33 @@ Kernel Thoughts is a full-stack blogging platform where users can share insightf
 
 ⚡ Fast loading with Next.js + dynamic routing
 
-🧱 Tech Stack
-Frontend
+🧱 Tech Stack Frontend :
 
-Next.js 14+ App Router
+-Next.js 14+ App Router
 
-Tailwind CSS + shadcn/ui
+-Tailwind CSS + shadcn/ui
 
-TypeScript
+-TypeScript
 
-Vercel (deployment)
+-Vercel (deployment)
 
-Backend (Microservices)
+Backend (Microservices):
 
-Express.js
+-Express.js
 
-MongoDB & Mongoose
+-MongoDB & Mongoose
 
-PostgreSQL (used for comments or auth)
+-PostgreSQL (for comments or auth)
 
-Redis (for caching)
+-Redis (for caching)
 
-Docker (for containerization)
+-Docker (for containerization)
 
-Google OAuth (for secure login)
+-Google OAuth (for secure login)
 
-RabbitMQ (used for communication)
+-RabbitMQ (used for communication)
 
-🗂 Architecture
-The project is structured as multiple services:
+🗂 Architecture The project is structured as multiple services:
 
 User Service – Handles login, profile, and auth
 
@@ -54,8 +52,4 @@ Blog Service – Manages posts, titles, tags, and CRUD
 
 Comment Service – Manages comments and discussions
 
-🌐 Live Demo
-🟢 Visit Kernel Thoughts
-https://kt-blogs.vercel.app
-
-
+🌐 Live Demo 🟢 Visit Kernel Thoughts https://kt-blogs.vercel.app
