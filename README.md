@@ -8,7 +8,7 @@
 
 🧑‍💻 Author profiles with bio and social links
 
-💬 Comment system (if implemented)
+💬 Comment system
 
 🔍 SEO-ready, with metadata and favicons
 
